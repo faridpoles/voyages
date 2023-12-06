@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Kufam;
+    src: url(/fonts/Kufam-Regular.ttf);
+}
+
+* {
+    color: white;
+    font-family: Kufam;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+}
+
+#conteneur {
+    width: 1400px;
+    margin: auto;
+}
+
+header {
+    height: 70px;
+    background: linear-gradient(#6CFBB7, #29C7C2);
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    float: right;
+    text-align: center;
+}
+
+#h3 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 40px;
+    background: url(../img/logo.png) no-repeat left;
+    
+}
+
+h3 {
+    text-shadow: 1px 1px rgb(37, 36, 36);
+}
