@@ -154,12 +154,13 @@ section {
 
 footer {
     margin-top: 30px;
-    padding: 30px;
+    padding: 20px;
     background: linear-gradient(#26C4C2, #6AFAB7);
     font-size: 10px;
     box-shadow: 0 -4px 5px rgb(97, 95, 95);
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 i{
